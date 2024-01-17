@@ -5,7 +5,7 @@
 <p>
         I'm Bruno! A passionate IT student from Brazil.
 
-  - 🌱 I’m currently studying Systems Analysis and Development at UniFACENS
+  - 🌱 I’m currently studying Systems Analysis and Development at UniFACENS.
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work as a Back-End Software Engineer.
 
