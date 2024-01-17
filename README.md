@@ -1,12 +1,9 @@
 <!-- Title -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello, World</h1></summary>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=57a5fd&random=false&width=435&height=30&lines=Hello%2C+World!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Bruno! A passionate IT student from Brazil.
+        I'm Bruno! A passionate IT student from Brazil.
 
   - 🌱 I’m currently studying Systems Analysis and Development at UniFACENS
 
