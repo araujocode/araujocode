@@ -62,7 +62,7 @@
 
  <!-- DBMS -->
   <div style="flex-basis: 48%;">
-    <h3>DBMS</h3>
+    <h3>Databases</h3>
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
     <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   </div>
