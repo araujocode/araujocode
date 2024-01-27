@@ -35,9 +35,9 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Java with Spring - RestVet](https://github.com/araujocode/RestVet) 
-- [Java - Chessboard Game](https://github.com/)
+- [Java with Spring - RestVet](https://github.com/araujocode/RestVet)
 - [Java - Workshop Spring Boot MongoDB](https://github.com/)
+- [Java - Chessboard Game](https://github.com/)
 - [Python with Django](https://github.com/)
 
 <!-- GIF -->
