@@ -36,7 +36,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Java - Workshop Spring Boot MongoDB](https://github.com/araujocode/workshop-springboot3-jpa)
-- [Java with Spring - RestVet](https://github.com/BytePrestige/RestVet)
+- [Java with Spring - RestVet (In progress)](https://github.com/BytePrestige/RestVet)
 - [Java - Chessboard Game (In progress)](https://github.com/)
 - [Python with Django (In progress)](https://github.com/)
 
