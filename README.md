@@ -35,10 +35,10 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Java with Spring - RestVet](https://github.com/araujocode/RestVet)
-- [Java - Workshop Spring Boot MongoDB](https://github.com/)
-- [Java - Chessboard Game](https://github.com/)
-- [Python with Django](https://github.com/)
+- [Java with Spring - RestVet](https://github.com/BytePrestige/RestVet)
+- [Java - Workshop Spring Boot MongoDB](https://github.com/araujocode/workshop-springboot3-jpa)
+- [Java - Chessboard Game (In progress)](https://github.com/)
+- [Python with Django (In progress)](https://github.com/)
 
 <!-- GIF -->
 ![cozy-room](https://github.com/araujocode/araujocode/assets/125917112/cced781a-ed6d-46b0-b9fe-69726f65a02d)
