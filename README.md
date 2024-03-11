@@ -36,7 +36,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Java - Workshop Spring Boot 3](https://github.com/araujocode/workshop-springboot3-jpa)
-- [Java - Chessboard Game (In progress)](https://github.com/araujocode/chessboard-game-java)
+- [Java - Chessboard Game](https://github.com/araujocode/chessboard-game-java)
 - [Python - Finger Counter with OpenCV (In progress)](https://github.com/araujocode/finger-counter-opencv)
 - [Java with Spring - Vetspot (In progress)](https://github.com/BytePrestige/RestVet)
 
