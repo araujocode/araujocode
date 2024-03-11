@@ -36,9 +36,10 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Java - Workshop Spring Boot 3](https://github.com/araujocode/workshop-springboot3-jpa)
-- [Java with Spring - RestVet (In progress)](https://github.com/BytePrestige/RestVet)
-- [Java - Chessboard Game (In progress)](https://github.com/)
-- [Python with Django (In progress)](https://github.com/)
+- [Java - Chessboard Game (In progress)](https://github.com/araujocode/chessboard-game-java)
+- [Python - Finger Counter with OpenCV (In progress)](https://github.com/araujocode/finger-counter-opencv)
+- [Java with Spring - Vetspot (In progress)](https://github.com/BytePrestige/RestVet)
+
 
 <!-- GIF -->
 ![cozy-room](https://github.com/araujocode/araujocode/assets/125917112/cced781a-ed6d-46b0-b9fe-69726f65a02d)
