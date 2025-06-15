@@ -7,8 +7,6 @@
 
   - 🌱 I’m currently studying Systems Analysis and Development at Facens University.
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work as a Software Engineer.
-
   - 🚀 Let's make a project together!
 </p>
 
